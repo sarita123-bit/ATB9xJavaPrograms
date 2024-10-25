@@ -19,6 +19,5 @@ public class Task2_MaximumOfThreeNumbers {
         System.out.println("Max Number is -> " +  result);
 
         // (a>b)?(a>c?a:c):(b>c?b:c)
-        // (a>b && a>c) ? a : (b>a && b>c) ? b: c; it is correct or not?
     }
 }
